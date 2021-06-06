@@ -55,3 +55,28 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column p {
+  font-size: 18px;
+}
+
+.hobbies h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  clear: both;
+}
+
+.hobbies p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-indent: 2%;
+}
+
+.hobbies li {
+  font-size: 18px;
+}
