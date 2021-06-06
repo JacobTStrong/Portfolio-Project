@@ -1,0 +1,13 @@
+.box1 {
+  width: 100%;
+  border: solid black;
+  border-width: 1px;
+  background-color: grey;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.box1 h1 {
+  text-align: center;
+  color: whitesmoke;
+}
