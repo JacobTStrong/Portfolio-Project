@@ -17,9 +17,9 @@ This is my first code review project at Epicodus. The project is meant to test m
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop.
-* Locate the index.html file.
-* Open the index.html file to view the webpage!
+* Clone this repository to your desktop by entering the command $ git clone https://github.com/JacobTStrong/portfolio-project.git into the command line.
+* Locate the index.html file within the main project directory.
+* Open the index.html file by clicking on it to view the webpage!
 * Or simply visit the GitHub Pages website [HERE](https://jacobtstrong.github.io/portfolio-project)!
 
 ## Known Bugs
@@ -29,6 +29,8 @@ This is my first code review project at Epicodus. The project is meant to test m
 ## License
 
 * [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Copyright (c) 2021 Jacob Strong
 
 ## Contact Information
 
