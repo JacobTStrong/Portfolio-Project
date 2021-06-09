@@ -9,6 +9,7 @@ body {
   background-color: grey;
   margin-bottom: 20px;
   box-sizing: border-box;
+  padding: 5px;
 }
 
 .box1 h1 {
